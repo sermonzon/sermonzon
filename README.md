@@ -4,7 +4,7 @@
 
 ## A little bit about me
 
-* I am an AI & Data Science Specialist with a strong background in computer science and mathematics, currently based in Copenhagen, Denmark. I'm passionate about exploring and managing data, and creating AI real-life models, as well as developing projects that can create a meaningful change  
+I am an AI & Data Science Specialist with a strong background in computer science and mathematics, currently based in Copenhagen, Denmark. I'm passionate about exploring and managing data, and creating AI real-life models, as well as developing projects that can create a meaningful change  
 
 ## Tech Stack
 - Languages: `Python`, `Matlab`, `SQL`, `C++`, `Haskell`, `Prolog`
