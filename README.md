@@ -12,5 +12,12 @@
 
 * Proficiency in `Python`, `Matlab`, `SQL`, `C++`, `Haskell`, `Prolog`, ... 
 
+## 🛠️ Tech Stack
+- Languages: `Python`, `Matlab`, `SQL`, `C++`, `Haskell`, `Prolog`
+- Data & AI: `TensorFlow`, `PyTorch`, `scikit-learn`, `Pandas`, `NumPy`, `Prophet`
+- Tools: `Git`, `Docker`, `Linux`, `Jupyter`, `VS Code`
+
+## Contact Information
+
 [![Gmail Badge](https://img.shields.io/badge/-sergiomonzongarces@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sergiomonzongarces@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Sergio_Monzon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-monzon-6b5a72204/)
